@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0507eb69-675c-428c-8507-6549d16a3132" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/transformer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/embedding/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/embedding/embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/embedding/positional_encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/layers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/layers/attention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/layers/ffn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/layers/layernorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/model/decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/model/encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transformer.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jYMSZk2SFeMV6Gni52j6sDKxyQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Documents/PycharmProjects/transformer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Documents\PycharmProjects\transformer\models\layers" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0507eb69-675c-428c-8507-6549d16a3132" name="Changes" comment="" />
+      <created>1721559558826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721559558826</updated>
+      <workItem from="1721559562841" duration="1993000" />
+      <workItem from="1721563595116" duration="2915000" />
+      <workItem from="1721958447762" duration="3573000" />
+      <workItem from="1721963078070" duration="2318000" />
+      <workItem from="1721970285195" duration="4193000" />
+      <workItem from="1722405862723" duration="1218000" />
+      <workItem from="1722910793469" duration="609000" />
+      <workItem from="1722912266552" duration="5999000" />
+      <workItem from="1728979606142" duration="4540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
